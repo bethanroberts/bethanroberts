@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bethanroberts
 - 👀 I’m interested in Renewable energy solutions, Hydrogen, ecology data
-- 🌱 I’m currently learning about data mesh
-- 💞️ I’m looking to collaborate on data models, data standards and solutions to support H2 generation, supply chain
+- 🌱 I’m currently learning about ML and AI
+- 💞️ I’m looking to collaborate on data models, data standards for renewables
 - 📫 How to reach me on twitter @rr_beth
 
 <!---
